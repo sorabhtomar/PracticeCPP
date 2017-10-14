@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Jaiprakash\documents\visual studio 2017\Projects\Practice\Debug\Stack.exe : fatal error LNK1120: 1 unresolved externals
